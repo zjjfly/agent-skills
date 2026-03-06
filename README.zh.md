@@ -1,8 +1,8 @@
 # Agent Skills
 
-个人 [Claude Code](https://claude.ai/code) 自定义 skill 合集。
+[English](README.md) | 中文
 
-> [English README](README.md)
+个人 [Claude Code](https://claude.ai/code) 自定义 skill 合集。
 
 ## 安装
 

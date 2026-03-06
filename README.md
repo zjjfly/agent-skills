@@ -1,8 +1,8 @@
 # Agent Skills
 
-A personal collection of custom skills for [Claude Code](https://claude.ai/code).
+English | [中文](README_zh.md)
 
-> [中文 README](README.zh.md)
+A personal collection of custom skills for [Claude Code](https://claude.ai/code).
 
 ## Installation
 
