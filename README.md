@@ -1,6 +1,6 @@
 # Agent Skills
 
-English | [中文](README_zh.md)
+English | [中文](README.zh.md)
 
 A personal collection of custom skills for [Claude Code](https://claude.ai/code).
 
