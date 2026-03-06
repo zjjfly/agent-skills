@@ -2,6 +2,8 @@
 
 A personal collection of custom skills for [Claude Code](https://claude.ai/code).
 
+> [中文 README](README.zh.md)
+
 ## Installation
 
 ```bash
