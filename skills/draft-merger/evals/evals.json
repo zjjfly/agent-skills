@@ -1,0 +1,56 @@
+{
+  "skill_name": "draft-merger",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我有三份关于远程办公的稿子，请帮我合并成一份最终稿。稿子A比较简洁，稿子B有数据和结构，稿子C语言最生动。我觉得B的结构最好，以B为基础，把A和C里好的内容加进去。\n\n--- 稿子A ---\n远程办公已经成为越来越多企业和员工的选择。本文将探讨远程办公的优势与挑战。\n\n首先，远程办公最明显的优势是节省通勤时间。对于生活在大城市的员工来说，每天上下班可能需要花费一两个小时甚至更多。这些时间可以用于工作、休息或家庭。\n\n其次，远程办公提供了更大的灵活性。员工可以根据自己的工作效率高峰期安排工作，而不必拘泥于传统的朝九晚五。\n\n然而，远程办公也带来了挑战。最主要的问题是缺乏团队凝聚力。当员工分散在各地时，建立良好的团队文化变得困难。\n\n此外，居家工作和私人生活之间的界限模糊也是一大挑战。许多远程工作者发现自己很难"下班"，工作时间不断延长。\n\n总的来说，远程办公利弊并存，关键在于找到适合自己和团队的平衡点。\n\n--- 稿子B ---\n后疫情时代，远程办公从临时应急措施转变为众多企业的长期战略选择。据麦肯锡2023年调查，全球约37%的工作岗位可以完全远程完成，而实际采用混合办公模式的企业已超过60%。\n\n**远程办公的核心优势**\n\n一、人才获取范围扩大。企业不再受地理限制，可以从全球范围内招募最优秀的人才。一家北京的科技公司可以雇佣身处成都的优秀工程师，而无需要求其搬迁。\n\n二、运营成本降低。办公室租金、水电、餐饮补贴等固定成本大幅减少。根据Global Workplace Analytics的报告，企业每个远程员工每年平均节省11,000美元。\n\n三、员工生产力提升。斯坦福大学的研究表明，远程工作者的生产力比办公室员工高出约13%，主要原因是干扰更少、工作环境更舒适。\n\n四、环境效益。减少通勤意味着减少碳排放，有助于实现企业的可持续发展目标。\n\n**主要挑战与解决方案**\n\n挑战一：沟通效率下降。解决方案：建立清晰的异步沟通规范，使用Slack、Notion等协作工具，定期举行视频会议。\n\n挑战二：员工归属感弱化。解决方案：定期组织线下团建活动，建立虚拟茶水间文化，让员工有非正式交流的机会。\n\n挑战三：管理难度增加。解决方案：转向结果导向的管理模式，以产出而非出勤时间衡量绩效。\n\n**结语**\n\n远程办公不是一种非此即彼的选择，而是需要根据企业特点、岗位性质和员工需求灵活调整的工作模式。成功的远程文化需要清晰的制度设计、合适的工具支持和持续的文化建设。\n\n--- 稿子C ---\n远程办公：自由的馈赠与代价\n\n清晨七点，当城市还在堵车的喧嚣中挣扎，小林已经端着咖啡坐在了窗边的书桌前，开始了一天的工作。没有地铁的拥挤，没有办公室的噪音，只有窗外树叶沙沙的声响。这，就是远程办公者的日常。\n\n但这种自由并不是没有代价的。\n\n**孤独，是最难言说的成本**\n\n人类是社会性动物。办公室里随口一句"今天吃什么"，可能是整天里唯一真实的人际连接。远程工作者失去的，不只是通勤时间，还有那些不经意的碰撞——走廊里的偶遇、茶水间的闲聊、会议结束后的吐槽。\n\n研究显示，长期远程工作者中，约有20%报告感到严重的孤独感，这不仅影响心理健康，也悄然侵蚀工作的创造力与激情。\n\n**专注，是最被低估的红利**\n\n然而，远程工作的另一面是惊人的专注度。没有人来你桌边问"现在有空吗"，没有突如其来的全员会议，你可以真正进入深度工作的状态。\n\n对于需要长时间专注的工作——写作、编程、设计——远程环境可以让人达到在开放式办公室里几乎不可能企及的效率高峰。\n\n**边界的消失：自由的另一面**\n\n"我的家变成了办公室，但我的办公室没有变成家。"这是许多远程工作者的心声。工作与生活边界的消融，让"永远在线"成为了一种新的职场焦虑。\n\n健康的远程工作需要刻意建立仪式感：固定的开工和收工时间，专属的工作空间，以及勇于说"我今天不回邮件"的边界意识。\n\n**未来属于混合模式**\n\n没有一种工作模式适合所有人。内向者可能在家如鱼得水，外向者则可能逐渐枯萎。聪明的企业已经开始拥抱混合模式——让员工在需要协作时聚集，需要专注时自由选择。\n\n远程办公不是终点，而是重新思考"工作是什么"这一问题的起点。",
+      "expected_output": "A merged Chinese article on remote work using Draft B as the base, enriched with Draft A's flexibility point and Draft C's vivid opening narrative, personal anecdote, and the 'boundary disappearance' section. The Merge Notes should explain the choice to use Draft B as base and note key additions from A and C.",
+      "files": [
+        "evals/files/remote-work-draft-a.md",
+        "evals/files/remote-work-draft-b.md",
+        "evals/files/remote-work-draft-c.md"
+      ],
+      "expectations": [
+        "The merged draft is in Chinese",
+        "The merged draft uses Draft B's structure as the base (the 核心优势/主要挑战 format is preserved)",
+        "The merged draft includes content from Draft C (e.g., the small story about 小林 or the '孤独' framing)",
+        "The merged draft includes the flexibility point from Draft A (about working at peak efficiency hours)",
+        "A Merge Notes section is present explaining editorial decisions",
+        "The final draft reads coherently without obvious seams between the drafts"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "I have two drafts of a product description for a portable fan. Can you merge them into one final version? Pick whichever base you think is better.\n\nDraft 1:\nProduct Name: AirBreeze Pro Portable Fan\n\nThe AirBreeze Pro is a compact, rechargeable portable fan designed for people on the go. With its powerful 3-speed motor and 360-degree rotation, it delivers refreshing airflow wherever you need it.\n\nKey Features:\n- Battery life: up to 8 hours on low speed\n- USB-C charging\n- Quiet operation under 40dB\n- Foldable design fits in backpack\n- Weight: 280g\n\nThe fan is perfect for commuters, outdoor activities, and travel. It comes with a built-in power bank function, allowing you to charge your phone while the fan is running.\n\nPrice: $49.99\nAvailable in: White, Black, Blue\n\nDraft 2:\nAirBreeze Pro — Stay Cool, Stay Charged\n\nBeat the heat without being tied to a wall outlet. The AirBreeze Pro portable fan gives you powerful, whisper-quiet cooling that goes wherever life takes you.\n\nWhy You'll Love It\n\nTired of sweating through your commute? Struggling through a crowded outdoor concert? The AirBreeze Pro's brushless motor generates a strong, steady breeze while staying impressively quiet — under 40 decibels, so you can actually hear your music or your colleagues.\n\nIts 5,000mAh battery doesn't just power the fan — it's also a full-featured power bank. Charge your iPhone or Android phone while staying cool. One device, two jobs.\n\nSpecs That Matter\n- 3 speed settings (Low/Medium/High)\n- Up to 8 hours runtime (low speed) / 3 hours (high speed)\n- 360° horizontal + 90° vertical tilt adjustment\n- USB-C fast charging (fully charged in 2 hours)\n- Near-silent operation: 35–40 dB\n- Compact and foldable: fits in any bag\n- Weight: 280g / 0.6 lbs\n\nPerfect For\nHome office • Commuting • Camping • Office desk • Gym bag • Travel\n\nAvailable Colors: Pearl White | Midnight Black | Ocean Blue\n\n$49.99 — Free shipping on orders over $35",
+      "expected_output": "A merged English product description that uses Draft 2's marketing copy style as the base (it's stronger), while adding Draft 1's unique missing details: 360-degree rotation capability mentioned explicitly, the product line name in the header, and the use-case list. The Merge Notes should identify Draft 2 as the base and note what was added from Draft 1.",
+      "files": [
+        "evals/files/product-draft-1.md",
+        "evals/files/product-draft-2.md"
+      ],
+      "expectations": [
+        "The merged draft is in English",
+        "The merged draft includes the free shipping detail from Draft 2",
+        "The merged draft includes the 3-hour runtime on high speed from Draft 2's specs",
+        "The merged draft includes the charging time (2 hours to full charge) from Draft 2",
+        "The merged draft preserves Draft 2's engaging marketing tone rather than reverting to Draft 1's flat spec-sheet style",
+        "A Merge Notes section is present",
+        "Price $49.99 is included"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "这是同一篇公司年终总结的两个版本，帮我合并一下，你来判断哪个更好作为基础。\n\n版本1：\n2024年，市场部在团队全体成员的共同努力下，超额完成了全年销售目标，整体业绩同比增长32%。\n\n主要成果：\n• 新客户开发：共签约新客户127家，超出目标20%\n• 品牌曝光：微信公众号粉丝突破50万，抖音账号涨粉80万\n• 产品发布：成功举办3次大型新品发布会，媒体报道累计覆盖超过1亿人次\n• 团队建设：全年开展培训12次，人均培训时长超过40小时\n\n明年计划继续保持增长势头，预计销售额增长25%以上。\n\n版本2：\n回顾2024，市场部走过了充实而不平凡的一年。\n\n这一年，我们面对市场环境的复杂变化，没有退缩，而是主动出击。整体业绩同比增长32%，是对团队韧性最好的证明。\n\n在客户拓展方面，我们签约新客户127家，每一家背后都是团队的无数次拜访、方案打磨与信任建立。在品牌建设方面，公众号突破50万粉丝，抖音涨粉80万，让更多人认识了我们。\n\n当然，我们也清醒地看到不足：在数字营销投放效率上仍有提升空间，客户留存率还需进一步改善。\n\n2025年，我们将以更高的标准要求自己，争取销售额增长30%，并在客户满意度上取得突破。\n\n感谢每一位团队成员的付出，感谢管理层的支持与信任。",
+      "expected_output": "A merged annual summary report that uses Version 2 as the base (more narrative and human), while incorporating Version 1's missing specific data points: the 3 product launches with 100M+ media impressions, the 12 training sessions and 40 hours per person detail. The growth target should reconcile the discrepancy (V1 says 25%, V2 says 30%) — the skill should flag this or make a choice.",
+      "files": [],
+      "expectations": [
+        "The merged draft is in Chinese",
+        "Version 2's narrative, human tone is preserved as the base",
+        "The product launch data (3次发布会, 1亿人次) from Version 1 is added",
+        "The training data (12次培训, 40小时) from Version 1 is added",
+        "The growth target discrepancy (25% vs 30%) is either flagged in Merge Notes or resolved",
+        "A Merge Notes section is present",
+        "The final draft is coherent and reads naturally"
+      ]
+    }
+  ]
+}
